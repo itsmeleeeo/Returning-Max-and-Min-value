@@ -1,0 +1,6 @@
+C:\Users\Windows\Documents\Intro Programming C#\1175WeekOneChallenge1\bin\Debug\1175WeekOneChallenge1.exe.config
+C:\Users\Windows\Documents\Intro Programming C#\1175WeekOneChallenge1\bin\Debug\1175WeekOneChallenge1.exe
+C:\Users\Windows\Documents\Intro Programming C#\1175WeekOneChallenge1\bin\Debug\1175WeekOneChallenge1.pdb
+C:\Users\Windows\Documents\Intro Programming C#\1175WeekOneChallenge1\obj\Debug\1175WeekOneChallenge1.csprojAssemblyReference.cache
+C:\Users\Windows\Documents\Intro Programming C#\1175WeekOneChallenge1\obj\Debug\1175WeekOneChallenge1.exe
+C:\Users\Windows\Documents\Intro Programming C#\1175WeekOneChallenge1\obj\Debug\1175WeekOneChallenge1.pdb
